@@ -1,0 +1,2 @@
+# lecturebackend
+Backend for lectureschedule
